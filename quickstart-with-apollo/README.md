@@ -15,7 +15,7 @@ For more information on how to get started refer to the [full android-apollo-ins
 
 ```sh
 git clone https://github.com/graphcool-examples/android-graphql.git
-cd android-graphql/quickstart-with-apollo
+cd android-graphql/quickstart-with-apollo/ApolloDemo
 ```
 
 
