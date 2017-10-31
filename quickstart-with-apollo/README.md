@@ -9,10 +9,6 @@ For more information on how to get started refer to the [full android-apollo-ins
 
 -->
 
-## Example
-
-![](http://imgur.com/Tp65mEc.gif)
-
 ## Quickstart
 
 ### 1. Clone example repository
